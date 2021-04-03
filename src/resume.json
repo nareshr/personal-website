@@ -1,0 +1,206 @@
+{
+  "basics": {
+    "name": "Naresh Ramoliya",
+    "label": "Tech Lead/Fullstack Software Engineer",
+    "picture": "images/nareshr.png",
+    "x_pictureFallback": "images/nareshr.png",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "Going on 10 years of experience in IT. Currently I’m working as a Technical Lead in the leading IT company. I’m interested in all sort of web development, with automation and developing front-end and back-end applications.",
+    "location": {
+      "country": "India",
+      "countryCode": "IN",
+      "region": "Ahmedabad, Gujarat"
+    },
+    "profiles": [
+      {
+        "network": "Medium Community",
+        "username": "@nareshramoliya",
+        "url": "https://medium.com/@nareshramoliya",
+        "x_icon":"fab fa-2x fa-medium"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "naresh-ramoliya",
+        "url": "https://www.linkedin.com/in/naresh-ramoliya/",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "nareshr",
+        "url": "https://github.com/nareshr",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Krish Compusoft Services Pvt. Ltd.",
+      "position": "Tech Lead",
+      "website": "https://www.kcsitglobal.com/",
+      "startDate": "2018-07-01",
+      "endDate": "",
+      "summary": "Working on projects related to Crypto currencies and its transaction handling, Micro Service based projects using NodeJs and web based products using ReactJs in front end and Laravel and NodeJs as backend and connect using REST API.",
+      "highlights": []
+    },
+    {
+      "company": "Vortilla Technologies Private Limited",
+      "position": "Senior Web Developer",
+      "website": "https://opcentral.com.au/",
+      "startDate": "2017-08-01",
+      "endDate": "2018-07-31",
+      "summary": "I have worked on a SOP web based product of the company which is developed using AngularJs, Laravel, AWS Services, MySQL, Socket.IO, NodeJs",
+      "highlights": []
+    },
+    {
+      "company": "Krish Compusoft Services Pvt. Ltd.",
+      "position": "Senior PHP Developer",
+      "website": "https://www.kcsitglobal.com/",
+      "startDate": "2015-02-01",
+      "endDate": "2017-08-31",
+      "summary": "Joined KCS as senior php developer and worked on the various web based products for various domain like financial, media advertising etc... and developed these projects using PHP, Laravel, Codeigniter, NodeJs, MySQL.",
+      "highlights": []
+    },
+    {
+      "company": "Digicorp Information Systems Pvt. Ltd.",
+      "position": "Software Developer",
+      "website": "https://www.digi-corp.com/",
+      "startDate": "2012-12-31",
+      "endDate": "2015-02-29",
+      "summary": "I have been working on Core PHP, CakePHP, Codeigniter, MySQL and Basecamp and worked on various projects mostly service based projects. Also doing requirement analysis, Database design, Client communication, coding and followed the agile development methodology etc... ",
+      "highlights": []
+    },
+    {
+      "company": "Indusa(Synoptek)",
+      "position": "Software Engineer",
+      "website": "https://synoptek.com/",
+      "startDate": "2011-09-01",
+      "endDate": "2012-12-31",
+      "summary": "Worked on various web based products for overseas clients developed in codeigniter a PHP framework and mysql with vaiours third party API for email service, cloud services etc...",
+      "highlights": []
+    },
+    {
+      "company": "Silver Touch Technologies Limited",
+      "position": "Programmer",
+      "website": "https://www.silvertouch.com/",
+      "startDate": "2010-09-01",
+      "endDate": "2011-09-01",
+      "summary": "I started my carrier as web developer and worked in core php and its framework Symfony and developed web based portals.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Madeira",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-15",
+      "endDate": "2019-06-07",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Jenkins",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },   
+    {
+      "name": "ReactJs",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "NodeJs",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "PHP + Laravel + CodeIgniter + CakePHP",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "HTML + CSS",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    },
+    {
+      "name": "Family Man",
+      "x_icon": "fa-users"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Travel bug",
+      "x_icon": "fa-globe-africa"
+    }
+  ]
+}
