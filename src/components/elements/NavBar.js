@@ -42,6 +42,7 @@ class NavBar extends React.Component {
               <MenuItem text="Skills" href="#skills" />
               <MenuItem text="Experience" href="#experience" />
               <MenuItem text="Articles" href="#articles" />
+              <MenuItem text="Contact" href="#contact" />
             </div>
           </div>
         </div>

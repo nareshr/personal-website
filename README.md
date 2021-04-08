@@ -41,3 +41,12 @@ Feel free to fork this project and customize with your personal info. If you imp
 ## License
 
 MIT
+
+
+# TO DOs
+    1. a tag css
+    2. Contact us form loader and modal popup
+    3. Add resume and download
+    4. Services Section
+
+

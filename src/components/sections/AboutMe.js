@@ -31,6 +31,27 @@ function AboutMe() {
             })}
           </div>
         </div>
+        <div className="is-divider"></div>
+              <div className="columns about-links">
+                <div className="column">&nbsp;</div>
+                <div className="column has-text-white">
+                  <p className="heading call-me">
+                    <strong style={{fontSize: "15px", fontWeight: "800"}}>Give me a ring</strong>
+                  </p>
+                  <p className="subheading has-text-white">
+                  <a href="tel:+918690593232" className="has-text-white" style={{fontSize: "15px", fontWeight: "800"}}>+91 8690593232</a>
+                  </p>
+                </div>
+                <div className="column">
+                  <p className="heading has-text-white">
+                    <strong style={{fontSize: "15px", fontWeight: "800"}}>Email Me</strong>
+                  </p>
+                  <p className="subheading has-text-white email-me">
+                  <a href="mailto:naresh.thenaresh@gmail.com?subject=I’d love to hear from you!" className="is-unselectable has-text-white" style={{fontSize: "15px", fontWeight: "800"}}>naresh.thenaresh@gmail.com</a>
+                  </p>
+                </div>
+                <div className="column">&nbsp;</div>
+              </div>
       </div>
     </section>
   );
