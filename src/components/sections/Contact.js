@@ -1,6 +1,5 @@
 import React, {useState} from "react";
 import LoadingOverlay from 'react-loading-overlay';
-import SimpleReactValidator from "simple-react-validator";
 import { env } from '../../config';
 import styled, { css } from "styled-components";
 import useValidator from './useValidator'
