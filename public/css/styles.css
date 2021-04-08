@@ -29,51 +29,42 @@ html {
 .skill-percentage {
 	float: right;
 }
-
 .contact {
     padding: 85px;
+}
+.contact button {
+  width: 100%;
+  background-color: #43485c;
+  color: white;
+  height: 50px;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  font-family: 'Poppins', sans-serif;
+}
+.about-links {
+  margin-top: 50px;
+}
+.about-links.call-me a {
+  display: block;
+}
+.call-me a:hover {
+  color: white;
+}
+@media (max-width: 599px) {
+  .contact {
+    padding: 60px 20px;
   }
-  
- .contact button {
-    width: 100%;
-    background-color: #43485c;
-    color: white;
-    height: 50px;
-    font-size: 1.1rem;
-    text-transform: uppercase;
-    font-family: 'Poppins', sans-serif;
-  }
-  
+}
+@media (max-width: 599px) {
   .about-links {
-    margin-top: 50px;
+    text-align: center;
   }
-
-  .about-links.call-me a {
-    display: block;
-  }
-
-  .call-me a:hover {
-    color: white;
-  }
-
-  @media (max-width: 599px) {
-    .contact {
-      padding: 60px 20px;
-    }
-  }
-
-  @media (max-width: 599px) {
-    .about-links {
-      text-align: center;
-    }
-  }
-
-  ._loading_overlay_content {
-    top: 45%;
-    left: 35%;
-    position: fixed;
-  }
-
-  .srv-validation-message {
-    color: red;
-  }
+}
+._loading_overlay_content {
+  top: 45%;
+  left: 35%;
+  position: fixed;
+}
+.srv-validation-message {
+  color: red;
+}
