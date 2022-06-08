@@ -5,7 +5,7 @@
     "picture": "images/nareshr.png",
     "x_pictureFallback": "images/nareshr.png",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 10 years of experience in IT. Currently I’m working as a Technical Lead in the leading IT company. I’m interested in all sort of web development, with automation and developing front-end and back-end applications.",
+    "summary": "Going on 10+ years of experience in IT. Currently I’m working as a Technical Lead in the leading IT company. I’m interested in all sort of web development, with automation and developing front-end and back-end applications.",
     "location": {
       "country": "India",
       "countryCode": "IN",
@@ -33,6 +33,15 @@
     ]
   },
   "work": [
+    {
+      "company": "BrightEdge",
+      "position": "Sr. Software Engineer",
+      "website": "https://www.brightedge.com/",
+      "startDate": "2022-02-01",
+      "endDate": "",
+      "summary": "Working on projects related to SEO, and its supportive modules based projects using Python for backend and web based products using ReactJs in for admin panel and Javascript for the front end part.",
+      "highlights": []
+    },
     {
       "company": "Krish Compusoft Services Pvt. Ltd.",
       "position": "Tech Lead",
